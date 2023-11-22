@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DCI.Services/obj/Debug/net7.0/DCI.Services.csproj.AssemblyReference.cache
+/DCI.Services/obj/Debug/net7.0/DCI.Services.csproj.AssemblyReference.cache
