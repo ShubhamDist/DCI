@@ -1,0 +1,12 @@
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\bin\Debug\net7.0\DCI.Domain.deps.json
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\bin\Debug\net7.0\DCI.Domain.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\bin\Debug\net7.0\DCI.Domain.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\obj\Debug\net7.0\DCI.Domain.csproj.AssemblyReference.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\obj\Debug\net7.0\DCI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\obj\Debug\net7.0\DCI.Domain.AssemblyInfoInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\obj\Debug\net7.0\DCI.Domain.AssemblyInfo.cs
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\obj\Debug\net7.0\DCI.Domain.csproj.CoreCompileInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\obj\Debug\net7.0\DCI.Domain.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\obj\Debug\net7.0\refint\DCI.Domain.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\obj\Debug\net7.0\DCI.Domain.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Domain\obj\Debug\net7.0\ref\DCI.Domain.dll

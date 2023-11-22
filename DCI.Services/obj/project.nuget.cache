@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpMRJ6ZVLOd7D4g9Mi4JjEbe+DeVpzgIAv2DKA4qyFFbm5tLI8q9wMvnX3Gy5R0gc2S8jdYW+fBLshJ8CkySYw==",
+  "success": true,
+  "projectFilePath": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Services\\DCI.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RVS\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\RVS\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

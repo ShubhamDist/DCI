@@ -1,0 +1,17 @@
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\bin\Debug\net7.0\DCI.Services.Abstractions.deps.json
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\bin\Debug\net7.0\DCI.Services.Abstractions.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\bin\Debug\net7.0\DCI.Services.Abstractions.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\bin\Debug\net7.0\DCI.Contracts.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\bin\Debug\net7.0\DCI.Domain.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\bin\Debug\net7.0\DCI.Contracts.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\bin\Debug\net7.0\DCI.Domain.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\DCI.Services.Abstractions.csproj.AssemblyReference.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\DCI.Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\DCI.Services.Abstractions.AssemblyInfoInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\DCI.Services.Abstractions.AssemblyInfo.cs
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\DCI.Services.Abstractions.csproj.CoreCompileInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\DCI.Services.Abstractions.csproj.CopyComplete
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\DCI.Services.Abstractions.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\refint\DCI.Services.Abstractions.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\DCI.Services.Abstractions.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Services.Abstractions\obj\Debug\net7.0\ref\DCI.Services.Abstractions.dll

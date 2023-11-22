@@ -1,0 +1,15 @@
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\bin\Debug\net7.0\GenerateApiStructure.exe
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\bin\Debug\net7.0\GenerateApiStructure.deps.json
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\bin\Debug\net7.0\GenerateApiStructure.runtimeconfig.json
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\bin\Debug\net7.0\GenerateApiStructure.dll
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\bin\Debug\net7.0\GenerateApiStructure.pdb
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\GenerateApiStructure.csproj.AssemblyReference.cache
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\GenerateApiStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\GenerateApiStructure.AssemblyInfoInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\GenerateApiStructure.AssemblyInfo.cs
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\GenerateApiStructure.csproj.CoreCompileInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\GenerateApiStructure.dll
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\refint\GenerateApiStructure.dll
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\GenerateApiStructure.pdb
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\GenerateApiStructure.genruntimeconfig.cache
+C:\Shubham\shubham\Projects\DCI\Code\GenerateApiStructure\obj\Debug\net7.0\ref\GenerateApiStructure.dll

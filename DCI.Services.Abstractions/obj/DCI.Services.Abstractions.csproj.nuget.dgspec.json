@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Services.Abstractions\\DCI.Services.Abstractions.csproj": {}
+  },
+  "projects": {
+    "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Contracts\\DCI.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Contracts\\DCI.Contracts.csproj",
+        "projectName": "DCI.Contracts",
+        "projectPath": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Contracts\\DCI.Contracts.csproj",
+        "packagesPath": "C:\\Users\\RVS\\.nuget\\packages\\",
+        "outputPath": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RVS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Domain\\DCI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Domain\\DCI.Domain.csproj",
+        "projectName": "DCI.Domain",
+        "projectPath": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Domain\\DCI.Domain.csproj",
+        "packagesPath": "C:\\Users\\RVS\\.nuget\\packages\\",
+        "outputPath": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RVS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Services.Abstractions\\DCI.Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Services.Abstractions\\DCI.Services.Abstractions.csproj",
+        "projectName": "DCI.Services.Abstractions",
+        "projectPath": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Services.Abstractions\\DCI.Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\RVS\\.nuget\\packages\\",
+        "outputPath": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RVS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Contracts\\DCI.Contracts.csproj": {
+                "projectPath": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Contracts\\DCI.Contracts.csproj"
+              },
+              "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Domain\\DCI.Domain.csproj": {
+                "projectPath": "C:\\Shubham\\shubham\\Projects\\DCI\\GIT\\DCI.Domain\\DCI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

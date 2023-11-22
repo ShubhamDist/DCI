@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DCI.Services.Abstractions/1.0.0": {
+        "dependencies": {
+          "DCI.Contracts": "1.0.0",
+          "DCI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DCI.Services.Abstractions.dll": {}
+        }
+      },
+      "DCI.Contracts/1.0.0": {
+        "runtime": {
+          "DCI.Contracts.dll": {}
+        }
+      },
+      "DCI.Domain/1.0.0": {
+        "runtime": {
+          "DCI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DCI.Services.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DCI.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DCI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

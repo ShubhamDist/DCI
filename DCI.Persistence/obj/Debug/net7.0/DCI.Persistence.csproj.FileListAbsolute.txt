@@ -1,0 +1,17 @@
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\DCI.Persistence.csproj.AssemblyReference.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\DCI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\DCI.Persistence.AssemblyInfoInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\DCI.Persistence.AssemblyInfo.cs
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\DCI.Persistence.csproj.CoreCompileInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\bin\Debug\net7.0\DCI.Persistence.deps.json
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\bin\Debug\net7.0\DCI.Persistence.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\bin\Debug\net7.0\DCI.Persistence.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\bin\Debug\net7.0\DCI.Domain.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\bin\Debug\net7.0\DCI.Utility.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\bin\Debug\net7.0\DCI.Domain.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\bin\Debug\net7.0\DCI.Utility.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\DCI.Persistence.csproj.CopyComplete
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\DCI.Persistence.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\refint\DCI.Persistence.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\DCI.Persistence.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Persistence\obj\Debug\net7.0\ref\DCI.Persistence.dll

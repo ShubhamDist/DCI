@@ -1,0 +1,12 @@
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\bin\Debug\net7.0\DCI.Contracts.deps.json
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\bin\Debug\net7.0\DCI.Contracts.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\bin\Debug\net7.0\DCI.Contracts.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\obj\Debug\net7.0\DCI.Contracts.csproj.AssemblyReference.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\obj\Debug\net7.0\DCI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\obj\Debug\net7.0\DCI.Contracts.AssemblyInfoInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\obj\Debug\net7.0\DCI.Contracts.AssemblyInfo.cs
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\obj\Debug\net7.0\DCI.Contracts.csproj.CoreCompileInputs.cache
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\obj\Debug\net7.0\DCI.Contracts.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\obj\Debug\net7.0\refint\DCI.Contracts.dll
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\obj\Debug\net7.0\DCI.Contracts.pdb
+C:\Shubham\shubham\Projects\DCI\Code\DCI.Contracts\obj\Debug\net7.0\ref\DCI.Contracts.dll

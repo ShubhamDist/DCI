@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HEloGDlMhOzz8mKCLPUgYSW+F83QaH4nAhwbngSXve8=",
+  "Source": "DCI.Web",
+  "BasePath": "_content/DCI.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
